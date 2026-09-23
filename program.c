@@ -5,4 +5,5 @@ void main()
     printf("This is my first time using git.\n");
     printf("Merge conflict rebase main\n");
     printf("Change 1\n");
+    printf("Change 2\n");
 }
