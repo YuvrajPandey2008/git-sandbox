@@ -6,4 +6,5 @@ void main()
     printf("This will cause a merge conflict main.\n");
     printf("This will cause merge conflict feature-1.\n");
     printf("Change for rebase\n");
+    printf("Change 2 for rebase.\n");
 }
