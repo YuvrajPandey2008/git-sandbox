@@ -1,2 +1,2 @@
 README for git-sandbox  
-program.c prints Hello World!  
+program.c prints Hello World! and This is my first time using git.  
